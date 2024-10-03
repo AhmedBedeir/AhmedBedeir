@@ -15,7 +15,7 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://www.linkedin.com/in/ahmed-bedeir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/bedeir0" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codeforces.com/profile/Bedeir" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate frontend engineer, creating robust and scalable web applications. Skilled in both front-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ <h3 align="left">🚀 Passionate frontend engineer, creating robust and scalable web applications. Skilled in both front-end technologies, with a keen eye for user experience and performance optimization.</h3>
 
 **<h3 align="left">Rapid Fire</h3>**
 
