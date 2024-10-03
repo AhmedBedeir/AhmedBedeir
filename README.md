@@ -39,3 +39,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedBedeir&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
