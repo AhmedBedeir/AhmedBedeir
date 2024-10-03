@@ -8,6 +8,8 @@
       <h1>
         👋 Hi, my name is Ahmed Bedeir
       </h1>
+      <br/>
+      <h2> Frontend Engineer </h2>
     </summary>
   </ul>
 </div>
