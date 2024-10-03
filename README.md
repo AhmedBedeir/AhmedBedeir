@@ -19,9 +19,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **Exploring Firebase**
-- 💬 Ask me about: ** JavaScript, React, Material Ui, and RESTful APIs**
+- 💼 I'm currently working on: **a new e-commerce platform using React and Node.js**
+- 🌱 I'm currently: **Exploring Firebase**
+- 💬 Ask me about: **JavaScript, React, Material Ui, and RESTful APIs**
 - ⚡ Fun fact: **I may not know the answer, but I can Google it like a pro.**
 
  **<h3 align="left">Skills</h3>**
