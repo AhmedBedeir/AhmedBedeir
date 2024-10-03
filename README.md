@@ -8,11 +8,11 @@
       <h1>
         👋 Hi, my name is Ahmed Bedeir
       </h1>
-      <br/>
-      <h2> Frontend Engineer </h2>
     </summary>
   </ul>
 </div>
+
+
 
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://www.linkedin.com/in/ahmed-bedeir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/bedeir0" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codeforces.com/profile/Bedeir" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="28" style="margin-right: 4px"></a></p>
